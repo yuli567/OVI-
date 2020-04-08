@@ -1,0 +1,26 @@
+body{
+	background-color: red;
+}
+nav,header,.contenedor,footer{
+	max-width:92%;
+	margin: auto;
+}
+header{
+	background-color: yellow;
+}
+.contenedor{
+	background-color: ;
+}
+.central {
+	background-color: ;
+	display:inline-block;
+	max-width:65%;
+}
+footer{
+	background-color: ;
+}
+ aside{
+ 	background-color: ;
+ 	display:inline-block;
+	max-width:27%;
+}
